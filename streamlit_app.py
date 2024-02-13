@@ -35,4 +35,6 @@ streamlit.dataframe(fruityvice_normalized)
 
 import snowflake.connector
 
+pip install snowflake-connector-python urllib3<2.0.0
+
 
